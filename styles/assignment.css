@@ -19,8 +19,8 @@ nav ul li{
 
 }
 .banner-intro{
-    color: rgb(14, 14, 14);
-    width: 52%;
+    color: rgba(14, 14, 14, 50%);
+    
 }
     
 .banner-content{
@@ -43,4 +43,35 @@ nav ul li{
     padding: 18px;
     border-radius: 5px;
 
+}
+/* idea section styles */
+.idea-container{
+    
+    display: flex;
+    gap: 24px;
+    padding: 24px;
+    background-color: white;
+    
+
+
+}
+.idea{
+    
+     padding: 32px;
+      border-radius: 10px;
+
+}
+.title{
+    font-weight: bold;
+    
+    font-size: 52px;
+}
+.idea-title{
+   
+    font-weight: bold;
+    font-size: 20px;
+}
+.idea-description{
+    font-size: 22px;
+    color: rgba(14, 14, 14, 70%);
 }
