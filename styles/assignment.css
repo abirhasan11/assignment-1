@@ -1,0 +1,46 @@
+
+
+
+/* nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+}
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 24px;
+    
+
+}
+.banner-intro{
+    color: rgb(14, 14, 14);
+    width: 52%;
+}
+    
+.banner-content{
+    max-width: 622px;
+}
+.front{
+    background-color: #C6E4D6;
+    padding: 22px;
+
+}
+.banner-heading{
+    font-weight: bold;
+    font-size: 52px;
+    
+}
+.btn-title{
+    background-color: #006A50;
+    color: white;
+    font-weight: 600;
+    padding: 18px;
+    border-radius: 5px;
+
+}
