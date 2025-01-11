@@ -297,6 +297,9 @@ nav ul {
   border-radius: 10px;
 }
 /* donation styles */
+.donation{
+  padding: 24px;
+}
 .donation-title{
   text-align: center;
   font-weight: bold;
@@ -344,14 +347,18 @@ input{
   font-size: 20px;
 
 }
-.done{
-  display: block;
-  margin: auto;
-  padding: 24px;
-  gap: 32px;
-  font-weight: 600;
-  font-size: 18px;
+.done-now{
+  text-align: center;
+  margin: 32px 0;
+}
+.done-now button{
+  border-radius: 10px;
   background-color: #006A50;
-  color: rgba(255, 255, 255, 74%);
+  padding: 18px 36px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #FFFFFF;
+  border: none;
+  
   
 }
