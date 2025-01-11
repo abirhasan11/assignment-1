@@ -173,10 +173,12 @@ nav ul li{
 
 
 }
-.idea{
+.idea-2{
     
-     
+     border-style: ridge;
       border-radius: 10px;
+      padding: 12px;
+      
 
 }
 .title{
@@ -422,6 +424,14 @@ color: aquamarine;
 .last-heading{
   text-align: center;
   padding: 64px;
+}
+.sign-in:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.btn-here:hover {
+  background-color: blue;
+  color: aquamarine;
 }
 
 
