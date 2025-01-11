@@ -433,5 +433,26 @@ color: aquamarine;
   background-color: blue;
   color: aquamarine;
 }
-
-
+/* quote styles */
+.quote-description{
+  
+  font-size: 16px;
+  color: rgba(14, 14, 14, 80%);
+}
+.quote{
+  background-image: url("../assets/quote-bg.png");
+  background-repeat: no-repeat;
+  background-position: 26px 26px;
+  border-style: ridge;
+  padding: 32px;
+  margin-top: 32px;
+  border-radius: 10px;
+}
+.quoter-person{
+  font-weight: 600;
+  font-size: 20;
+}
+.person-designation{
+  font-size: 16px;
+  color: rgba(14, 14, 14, 60%);
+}
