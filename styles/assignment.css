@@ -362,3 +362,41 @@ input{
   
   
 }
+.done-now button:hover {
+  background-color: #5490F5;
+  color: aquamarine;
+}
+.btn-option-1:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.btn-option-2:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.btn-option-3:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.btn-title:hover {
+background-color: blue;
+color: aquamarine;
+}
+.amount:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.amount:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.amount-1:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+.amount-2:hover {
+  background-color: blue;
+  color: aquamarine;
+}
+
+
