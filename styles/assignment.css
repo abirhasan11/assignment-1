@@ -243,18 +243,18 @@ nav ul li{
     color: white;
     
     border-radius: 5px;
-    padding: 20px;
+    padding:12px  20px;
 }
 .btn-option-2{
     background-color: #09A15C;
     color: white;
-    padding: 20px;
+    padding: 12px 20px;
     border-radius: 5px;
 }
 .btn-option-3{
     background-color: #FFC239;
     color: white;
-    padding: 20px;
+    padding: 12px 20px;
     border-radius: 5px;
 }
 .headlines-title{
@@ -284,6 +284,7 @@ nav ul {
   background-color: #006A50;
   color: rgba(255, 255, 255, 74%);
   border-radius: 5px;
+  padding: 12px 20px;
 }
 .news-container-heading{
   font-weight: bold;
