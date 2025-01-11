@@ -398,5 +398,30 @@ color: aquamarine;
   background-color: blue;
   color: aquamarine;
 }
+/* footer styles */
+.footer-part{
+  background-color: #C6E4D6;
+}
+.footer-container{
+  text-align: center;
+  margin: 100px 80px ;
+  padding: 100px 80px;
+}
+.footer-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+.footer-description{
+  font-size: 16px;
+  color: rgba(14, 14, 14, 70%);
+}
+.last-idea-description{
+  font-size: 16px;
+  color: rgba(14, 14, 14, 70%);
+}
+.last-heading{
+  text-align: center;
+  padding: 64px;
+}
 
 
